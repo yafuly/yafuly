@@ -1,6 +1,8 @@
 Hi! I am Yafu Li, a researcher at Shanghai AI Lab, supervised by [Prof. Yu Cheng](https://ych133.github.io/). I earned my PhD through joint training at Zhejiang University and Westlake University under the guidance of [Prof. Yue Zhang](https://frcchang.github.io/). 
 
- My research focuses on test-time scaling, trustworthy AI and machine translation.
+My research focuses on test-time scaling, trustworthy AI and machine translation.
+
+We are looking for interns and joint PhD candidates (with THU, PKU, SJTU, FDU, etc.) to work on cutting-edge research in large-scale models. Our focus areas include zero reinforcement learning (e.g., R1-zero), test-time scaling, and trustworthy AI. If you are interested, please feel free to contact me at yafuly@gmail.com.
 
  ## Test-time Scaling
 
