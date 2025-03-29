@@ -49,5 +49,5 @@ We are looking for **interns** and joint **PhD candidates** (with THU, PKU, SJTU
 - **Multi-Granularity Optimization for Non-Autoregressive Translation**  
   [Paper Link](https://aclanthology.org/2022.emnlp-main.339/) | [GitHub Project :octocat:](https://github.com/yafuly/MgMO-NAT)
 
-- **On Compositional Generalization of Neural Machine Translation**
+- **On Compositional Generalization of Neural Machine Translation**  
   [Paper Link](https://aclanthology.org/2021.acl-long.368/) | [GitHub Project :octocat:](https://github.com/yafuly/CoGnition)
