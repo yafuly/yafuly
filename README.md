@@ -4,7 +4,7 @@ Hi! I am **Yafu Li**, a researcher at Shanghai AI Lab, currently working under t
 
 My research focuses on **test-time scaling**, **trustworthy AI**, and **machine translation**.
 
-:sparkles: :sparkles: :sparkles: 
+:sparkles: :sparkles: :sparkles:   
 We are looking for **interns** and joint **PhD candidates** (with THU, PKU, SJTU, FDU, etc.) to work on cutting-edge research in large-scale models. Our focus areas include zero reinforcement learning (e.g., R1-zero), test-time scaling, and trustworthy AI. If you are interested, please feel free to contact me at [yafuly@gmail.com](mailto:yafuly@gmail.com).
 
 ---
