@@ -11,7 +11,7 @@ We are looking for **interns** and joint **PhD candidates** (with THU, PKU, SJTU
 
 ## Reasoning and Inference Scaling 🚀
 - **Learning to Reason under Off-Policy Guidance**
-- [Paper Link](https://arxiv.org/abs/2504.14945) | [Github Project: :octocat:](https://github.com/ElliottYan/LUFFY)
+- [Paper Link](https://arxiv.org/abs/2504.14945) | [Github Project :octocat:](https://github.com/ElliottYan/LUFFY)
 
 - **A Survey of Efficient Reasoning for Large Reasoning Models: Language, Multimodality, and Beyond**  
   [Paper Link](https://arxiv.org/abs/2503.21614) | [GitHub Project :octocat:](https://github.com/XiaoYee/Awesome_Efficient_LRM_Reasoning)
