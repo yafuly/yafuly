@@ -8,7 +8,7 @@ We are looking for **interns** and joint **PhD candidates** (with THU, PKU, SJTU
 
 ## Recent Focus 🚀
 
-* **Scaling Reasoning, Losing Control: Evaluating Instruction Following in Large Reasoning Models**
+* **Scaling Reasoning, Losing Control: Evaluating Instruction Following in Large Reasoning Models (MathIF)**
   [📄 Paper](https://arxiv.org/abs/2505.14810) | [💻 Code](https://github.com/TingchenFu/MathIF/tree/main)
 
 * **Learning to Reason under Off-Policy Guidance (LUFFY)**
@@ -17,11 +17,11 @@ We are looking for **interns** and joint **PhD candidates** (with THU, PKU, SJTU
 * **A Survey of Efficient Reasoning for Large Reasoning Models: Language, Multimodality, and Beyond**
   [📄 Paper](https://arxiv.org/abs/2503.21614) | [💻 Code](https://github.com/XiaoYee/Awesome_Efficient_LRM_Reasoning)
 
-* **Test-Time Preference Optimization: On-the-Fly Alignment via Iterative Textual Feedback**
+* **Test-Time Preference Optimization: On-the-Fly Alignment via Iterative Textual Feedback (TPO)**
   [📄 Paper](https://arxiv.org/abs/2501.12895) | [💻 Code](https://github.com/yafuly/TPO)
 
-* **From Drafts to Answers: Unlocking LLM Potential via Aggregation Fine-Tuning**
+* **From Drafts to Answers: Unlocking LLM Potential via Aggregation Fine-Tuning (AFT)**
   [📄 Paper](https://arxiv.org/abs/2501.11877) | [💻 Code](https://github.com/Linzwcs/AFT)
 
-* **Multi-LLM Collaborative Search for Complex Problem Solving**
+* **Multi-LLM Collaborative Search for Complex Problem Solving (MoSA)**
   [📄 Paper](https://arxiv.org/abs/2502.18873)
