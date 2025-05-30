@@ -10,6 +10,9 @@ We are looking for **interns** and joint **PhD candidates** (with THU, PKU, SJTU
 ---
 
 ## Reasoning and Inference Scaling 🚀
+- **Scaling Reasoning, Losing Control: Evaluating Instruction Following in Large Reasoning Models**
+  [Paper Link](https://arxiv.org/abs/2505.14810) | [Github Project :octocat:](https://github.com/TingchenFu/MathIF/tree/main)
+
 - **Learning to Reason under Off-Policy Guidance**  
   [Paper Link](https://arxiv.org/abs/2504.14945) | [Github Project :octocat:](https://github.com/ElliottYan/LUFFY)
 
@@ -25,31 +28,4 @@ We are looking for **interns** and joint **PhD candidates** (with THU, PKU, SJTU
 - **Multi-LLM Collaborative Search for Complex Problem Solving**  
   [Paper Link](https://arxiv.org/abs/2502.18873)
 
----
 
-## Trustworthy AI 🔒
-
-- **MAGE: Machine-generated Text Detection in the Wild**  
-  [Paper Link](https://aclanthology.org/2024.acl-long.3/#) | [GitHub Project :octocat:](https://github.com/yafuly/MAGE)
-
-- **Spotting AI’s Touch: Identifying LLM-Paraphrased Spans in Text**  
-  [Paper Link](https://aclanthology.org/2024.findings-acl.423/) | [GitHub Project :octocat:](https://github.com/Linzwcs/PASTED)
-
-- **Siren's Song in the AI Ocean: A Survey on Hallucination in Large Language Models**  
-  [Paper Link](https://arxiv.org/abs/2309.01219) | [GitHub Project :octocat:](https://github.com/HillZhang1999/llm-hallucination-survey)
-
----
-
-## Machine Translation 🌐
-
-- **Lost in Literalism: How Supervised Training Shapes Translationese in LLMs**  
-  [Paper Link](https://arxiv.org/abs/2503.04369) | [GitHub Project :octocat:](https://github.com/yafuly/LLM_translationese)
-
-- **Explicit Syntactic Guidance for Neural Text Generation**  
-  [Paper Link](https://aclanthology.org/2023.acl-long.788/) | [GitHub Project :octocat:](https://github.com/yafuly/SyntacticGen)
-
-- **Multi-Granularity Optimization for Non-Autoregressive Translation**  
-  [Paper Link](https://aclanthology.org/2022.emnlp-main.339/) | [GitHub Project :octocat:](https://github.com/yafuly/MgMO-NAT)
-
-- **On Compositional Generalization of Neural Machine Translation**  
-  [Paper Link](https://aclanthology.org/2021.acl-long.368/) | [GitHub Project :octocat:](https://github.com/yafuly/CoGnition)
