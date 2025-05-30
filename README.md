@@ -9,7 +9,7 @@ We are looking for **interns** and joint **PhD candidates** (with THU, PKU, SJTU
 
 ## Reasoning and Inference Scaling 🚀  
 
-- **Scaling Reasoning, Losing Control: Evaluating Instruction Following in Large Reasoning Models**
+- **Scaling Reasoning, Losing Control: Evaluating Instruction Following in Large Reasoning Models**  
   [Paper Link](https://arxiv.org/abs/2505.14810) | [Github Project :octocat:](https://github.com/TingchenFu/MathIF/tree/main)
 
 - **Learning to Reason under Off-Policy Guidance**  
