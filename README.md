@@ -8,6 +8,9 @@ We are looking for **interns** and joint **PhD candidates** (with THU, PKU, SJTU
 
 ## Recent Focus 🚀
 
+* **Reasoning over Boundaries: Enhancing Specification Alignment via Test-time Delibration (SpecBench)**
+  [📄 Paper](https://arxiv.org/abs/2509.14760) | [💻 Code](https://github.com/zzzhr97/SpecBench)
+
 * **Scaling Reasoning, Losing Control: Evaluating Instruction Following in Large Reasoning Models (MathIF)**
   [📄 Paper](https://arxiv.org/abs/2505.14810) | [💻 Code](https://github.com/TingchenFu/MathIF/tree/main)
 
@@ -20,8 +23,3 @@ We are looking for **interns** and joint **PhD candidates** (with THU, PKU, SJTU
 * **Test-Time Preference Optimization: On-the-Fly Alignment via Iterative Textual Feedback (TPO)**
   [📄 Paper](https://arxiv.org/abs/2501.12895) | [💻 Code](https://github.com/yafuly/TPO)
 
-* **From Drafts to Answers: Unlocking LLM Potential via Aggregation Fine-Tuning (AFT)**
-  [📄 Paper](https://arxiv.org/abs/2501.11877) | [💻 Code](https://github.com/Linzwcs/AFT)
-
-* **Multi-LLM Collaborative Search for Complex Problem Solving (MoSA)**
-  [📄 Paper](https://arxiv.org/abs/2502.18873)
