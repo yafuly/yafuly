@@ -1,9 +1,9 @@
 # Research Portfolio
 
-Hi! I am **Yafu Li**, a researcher at Shanghai AI Lab, currently working under the supervision of [Prof. Yu Cheng](https://ych133.github.io/). My research focuses on **reasoning and inference scaling**, **trustworthy AI**, and **machine translation**.
+I am Yafu Li, a postdoctoral researcher at the Chinese University of Hong Kong under the supervision of Prof. Yu Cheng. My research focuses on reasoning, trustworthy AI, and multilinguality.
 
 :sparkles: :sparkles: :sparkles:   
-We are looking for **interns** and joint **PhD candidates** (with THU, PKU, SJTU, FDU, etc.) to work on cutting-edge research in large language models. Our focus areas include zero reinforcement learning (e.g., R1-zero), test-time scaling, and trustworthy AI. If you are interested, please feel free to contact me at [yafuly@gmail.com](mailto:yafuly@gmail.com).
+We are looking for **interns** and joint **PhD candidates** (with THU, PKU, SJTU, FDU, etc.) to work on cutting-edge research in large language models. If you are interested, please feel free to contact me at [yafuly@gmail.com](mailto:yafuly@gmail.com).
 
 
 ## Recent Focus 🚀
